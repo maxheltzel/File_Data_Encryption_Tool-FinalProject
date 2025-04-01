@@ -1,5 +1,5 @@
 # File_Data_Encryption_Tool-FinalProject
-Do not use this tool to encrypt any important or valuable information. By using this tool, you agree to release the creator from all liabilities and agree to not use it in any real use cases.
+Do not use this tool to encrypt any important or valuable information. 
 
 Steps:
 1) Copy and paste the code into your python 3 enviorment
